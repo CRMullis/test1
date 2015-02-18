@@ -1,6 +1,6 @@
 /* Code by Collin Mullis
 	CMP237 Exam 1 Practicum
-	3 Control Flows
+	test 0 practicum
 */
 
 // i variable used for counter
