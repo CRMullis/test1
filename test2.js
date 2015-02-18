@@ -1,6 +1,6 @@
 /* Code by Collin Mullis
 	CMP237
-	Practicum Test 3 Functions 
+	Practicum Test 2 Functions 
 */
 function square(x) {
 	return x * x
